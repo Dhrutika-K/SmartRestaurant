@@ -1,0 +1,26 @@
+.main-div {
+  background-image: url("../public/menuBackground.jpeg");
+  background-attachment: fixed;
+  min-height: 92vh;
+}
+
+.main-div-order {
+  background-image: url("../public/menuBackground.jpeg");
+  background-attachment: fixed;
+  min-height: 90vh;
+}
+
+.appbar-main-div {
+  background-image: url("../public/menuBackground.jpeg");
+}
+
+* {
+  font-family: "Amaranth", sans-serif;
+}
+
+.center {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
